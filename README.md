@@ -91,5 +91,3 @@ These help visualize how the modules interact.
 The project report file contains explanations, observations, simulation results, and the final conclusion.
 
 
-Your Name  
-EEL 203 – Digital Electronics Project
